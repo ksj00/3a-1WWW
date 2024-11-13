@@ -1,0 +1,16 @@
+a {background-color: rgb(61, 150, 209);}
+
+P{color:rgb(103, 103, 212)}
+
+P.yellow {color: rgb(221, 221, 108);}
+.green {color: rgba(82, 146, 79, 0.932);}
+.red {color: rgb(219, 36, 61);}
+
+p.black {color: black;}
+.style-akapit {
+    font-size: 31px;
+    font-family: cursive, serif;
+    padding: 50px;
+    
+}
+#mein {color: aqua;}
